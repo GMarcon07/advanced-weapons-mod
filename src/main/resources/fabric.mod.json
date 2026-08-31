@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "advanced-weapons-mod",
+  "version": "${version}",
+  "name": "Advanced Weapons Mod",
+  "description": "Um mod Fabric com 5 armas customizadas inspiradas em TACZ",
+  "authors": [
+    "GMarcon07"
+  ],
+  "contact": {
+    "homepage": "https://github.com/GMarcon07/advanced-weapons-mod",
+    "sources": "https://github.com/GMarcon07/advanced-weapons-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/advanced-weapons-mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gmarcon07.advancedweapons.AdvancedWeaponsMod"
+    ],
+    "client": [
+      "com.gmarcon07.advancedweapons.client.AdvancedWeaponsClientMod"
+    ]
+  },
+  "mixins": [
+    "advanced-weapons-mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1"
+  }
+}
