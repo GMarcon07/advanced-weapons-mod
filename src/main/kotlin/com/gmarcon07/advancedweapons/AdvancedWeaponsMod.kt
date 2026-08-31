@@ -7,15 +7,15 @@ object AdvancedWeaponsMod : ModInitializer {
 	private val LOGGER = LoggerFactory.getLogger("advanced-weapons-mod")
 
 	override fun onInitialize() {
-		LOGGER.info("Advanced Weapons Mod inicializado!")
+		LOGGER.info("Advanced Firearms Mod inicializado!")
 		
-		// Registrar itens
-		WeaponItems.register()
+		// Registrar itens de fogo
+		FirearmItems.register()
 		
 		// Registrar sons
-		WeaponSounds.register()
+		FirearmSounds.register()
 		
 		// Registrar efeitos
-		WeaponEffects.register()
+		FirearmEffects.register()
 	}
 }
