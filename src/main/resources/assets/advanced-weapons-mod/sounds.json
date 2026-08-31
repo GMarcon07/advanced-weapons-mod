@@ -1,0 +1,110 @@
+{
+  "firearm.m4a1.fire": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/m4a1/fire"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.m4a1.fire"
+  },
+  "firearm.m4a1.reload": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/m4a1/reload"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.m4a1.reload"
+  },
+  "firearm.m4a1.empty": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/m4a1/empty"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.m4a1.empty"
+  },
+  "firearm.pistol.fire": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/pistol/fire"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.pistol.fire"
+  },
+  "firearm.pistol.reload": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/pistol/reload"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.pistol.reload"
+  },
+  "firearm.pistol.empty": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/pistol/empty"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.pistol.empty"
+  },
+  "firearm.shotgun.fire": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/shotgun/fire"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.shotgun.fire"
+  },
+  "firearm.shotgun.reload": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/shotgun/reload"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.shotgun.reload"
+  },
+  "firearm.shotgun.pump": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/shotgun/pump"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.shotgun.pump"
+  },
+  "firearm.sniper.fire": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/sniper/fire"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.sniper.fire"
+  },
+  "firearm.sniper.reload": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/sniper/reload"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.sniper.reload"
+  },
+  "firearm.sniper.bolt": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/sniper/bolt"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.sniper.bolt"
+  },
+  "firearm.mp5.fire": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/mp5/fire"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.mp5.fire"
+  },
+  "firearm.mp5.reload": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/mp5/reload"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.mp5.reload"
+  },
+  "firearm.mp5.empty": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/mp5/empty"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.mp5.empty"
+  },
+  "firearm.impact.flesh": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/impact/flesh"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.impact.flesh"
+  },
+  "firearm.impact.block": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/impact/block"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.impact.block"
+  },
+  "firearm.impact.ricochet": {
+    "sounds": [
+      "advanced-weapons-mod:firearm/impact/ricochet"
+    ],
+    "subtitle": "subtitle.advanced-weapons-mod.impact.ricochet"
+  }
+}
